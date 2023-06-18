@@ -74,8 +74,6 @@ $ docker-compose up -d
 
 Этот проект находится под лицензией MIT. Для получения более подробной информации см. [LICENSE](LICENSE) файл.
 
-&#xa0;
-
 <h4 align="right"> 
 	Сделано с :heart: <a href="https://github.com/orgs/laspegasuscommunity/people/ponfertato" target="_blank">ponfertato</a>
 </h4> 
