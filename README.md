@@ -19,12 +19,12 @@
 <hr>
 
 <p align="center">
-  <a href="#dart">О проекте</a> &#xa0; | &#xa0;
-  <a href="#sparkles">Особенности</a> &#xa0; | &#xa0;
-  <a href="#rocket">Технологии</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark">Требования</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag">Начало</a> &#xa0; | &#xa0;
-  <a href="#memo">Лицензия</a> &#xa0; | &#xa0;
+  <a href="#dart-о-проекте">О проекте</a> &#xa0; | &#xa0;
+  <a href="#sparkles-особенности">Особенности</a> &#xa0; | &#xa0;
+  <a href="#rocket-технологии">Технологии</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-требования">Требования</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-начало">Начало</a> &#xa0; | &#xa0;
+  <a href="#memo-лицензия">Лицензия</a> &#xa0; | &#xa0;
   <a href="https://github.com/orgs/laspegasuscommunity/people" target="_blank">Авторы</a>
 </p>
 
