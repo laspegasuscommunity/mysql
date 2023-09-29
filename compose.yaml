@@ -4,16 +4,18 @@ services:
   #Это конфигурация Docker Compose для службы базы данных MySQL.
   mysql:
     container_name: mysql
+    deploy:
+      restart_policy:
+        condition: always
+        delay: 5s
     env_file: mysql.env
     image: mysql:latest
     labels:
       com.centurylinklabs.watchtower.enable: "true"
       traefik.enable: "false"
     shm_size: 256mb
-    ports:
-      - "3306:3306"
     volumes:
-      - "./mysql:/var/lib/mysql"
+      - "/mnt/docker-volumes/db/mysql:/var/lib/mysql"
 
 networks:
   default:
