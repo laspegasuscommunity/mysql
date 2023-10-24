@@ -18,6 +18,6 @@ services:
       - "/mnt/docker-volumes/db/mysql:/var/lib/mysql"
 
 networks:
-  default:
+  external:
     external: true
     name: $NETWORK
